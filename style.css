@@ -1,0 +1,14 @@
+h2 {
+    background-color: blueviolet;
+    color: aliceblue;
+    opacity: 50%;
+}
+
+h3 {
+    color: dodgerblue;
+}
+table, th, td {
+    border:5px solid black;
+    color: purple;
+
+}
